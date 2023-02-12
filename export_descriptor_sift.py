@@ -8,7 +8,7 @@ import torch.nn.functional as func
 import sys
 import cv2
 from tqdm import tqdm
-from AANet import AANet
+from AANet_core import AANet
 
 def SIFT_detect(img, nfeatures=1500, contrastThreshold=0.04):
     """ Compute SIFT feature points. """
