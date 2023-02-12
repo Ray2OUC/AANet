@@ -8,4 +8,8 @@ We trained our AANet with one-stage end-to-end triplet training strategy on MS-C
 The core implementation of AANet is shown in AANet_core.py
 
 # DEMO：SIFT+AANet
-We provide the demo of exporting SIFT keypoints and AANet descriptor in export_dna_sift.py, and it can be easily modified to other off-the-shelf detectors and matchers for evaluation.
+We provide the demo of exporting SIFT keypoints and AANet descriptor in export_descriptor_sift.py, and it can be easily modified to other off-the-shelf detectors and matchers for evaluation.
+```
+CUDA_VISIBLE_DEVICES=0 python export_descriptor_sift.py
+```
+For more evaluation details, please refer to the [LISRD]: https://github.com/rpautrat/LISRD 
