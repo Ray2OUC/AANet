@@ -20,15 +20,15 @@ For more evaluation details, please refer to the [HIFT](https://github.com/Ray2O
 If you are interested in this work, please cite the following work:
 
 ```
-@ARTICLE{10058693,
-  author={Rao, Yuan and Ju, Yakun and Wang, Sen and Gao, Feng and Fan, Hao and Dong, Junyu},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Learning Enriched Feature Descriptor for Image Matching and Visual Measurement}, 
+@ARTICLE{10102528,
+  author={Rao, Yuan and Ju, Yakun and Li, Cong and Rigall, Eric and Yang, Jian and Fan, Hao and Dong, Junyu},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Learning General Descriptors for Image Matching with Regression Feedback}, 
   year={2023},
-  volume={72},
+  volume={},
   number={},
-  pages={1-12},
-  doi={10.1109/TIM.2023.3249237}}
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3267279}}
 ```
 
 # Acknowledgments
