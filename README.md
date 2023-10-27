@@ -23,11 +23,11 @@ If you are interested in this work, please cite the following work:
 @ARTICLE{10102528,
   author={Rao, Yuan and Ju, Yakun and Li, Cong and Rigall, Eric and Yang, Jian and Fan, Hao and Dong, Junyu},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Learning General Descriptors for Image Matching with Regression Feedback}, 
+  title={Learning General Descriptors for Image Matching With Regression Feedback}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={33},
+  number={11},
+  pages={6693-6707},
   doi={10.1109/TCSVT.2023.3267279}}
 ```
 
