@@ -3,7 +3,7 @@ demo and pre-trained weight of AANet --- a dense descriptor for local feature ma
 
 ![Framework](framework.jpg)
 
-Our work is accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023, and can be accessed via [manuscript](https://ieeexplore.ieee.org/document/10058693).
+Our work was accepted by IEEE Transactions on Circuits and Systems for Video Technology 2023, and can be accessed via [manuscript](https://ieeexplore.ieee.org/document/10058693).
 
 ![Example](examples.jpg)
 
