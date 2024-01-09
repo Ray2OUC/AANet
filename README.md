@@ -1,4 +1,4 @@
-# LearningGeneral Descriptors for Image Matching with Regression Feedback
+# Learning General Descriptors for Image Matching with Regression Feedback
 demo and pre-trained weight of AANet --- a dense descriptor for local feature matching.
 
 ![Framework](framework.jpg)
